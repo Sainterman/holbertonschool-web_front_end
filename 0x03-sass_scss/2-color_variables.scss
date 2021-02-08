@@ -1,0 +1,14 @@
+/* two colors */
+
+$base-color: #3D3D3D;
+$back-color: #6D6D6D;
+
+body {
+    color: $base-color;
+    background-color: $back-color;
+}
+
+p {
+    color: $base-color;
+    background-color: $back-color;
+}
