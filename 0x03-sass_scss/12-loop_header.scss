@@ -1,0 +1,6 @@
+/* using for */
+@for $level from 1 to 6 {
+    h#{$level} {
+        font-size: #{$level}px;
+    }
+}
