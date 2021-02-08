@@ -1,0 +1,15 @@
+/* importing */
+.red {
+    @import '10-colors';
+    color: $red;
+}
+
+.green {
+    @import '10-colors';
+    color: $green;
+}
+
+.blue {
+    @import '10-colors';
+    color: $blue
+}
