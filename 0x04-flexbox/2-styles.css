@@ -526,6 +526,7 @@ ul.row {
 /*** 4. CARD ***/
 
 /* Section Latest news ============================= */
+
 .section-latest-news .row {
     flex-direction: row-reverse;
 }
